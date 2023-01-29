@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    {% for i in result: %}
+    <br>
+    <table border="1">
+        <tr>
+            <td>CourseName</td>
+            <td>{{i[0]}}</td>
+        </tr>
+        <tr>
+            <td>Platform</td>
+            <td>{{i[1]}}</td>
+        </tr>
+        <tr>
+            <td>Category</td>
+            <td>{{i[2]}}</td>
+        </tr>
+        <tr>
+            <td>CourseLink</td>
+            <td><a href="{{i[3]}}">{{i[3]}}</a></td>
+        </tr>
+    </table>
+    <br>
+    {% endfor %}
+</body>
+</html>

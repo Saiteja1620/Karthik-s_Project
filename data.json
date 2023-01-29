@@ -1,0 +1,214 @@
+{
+    "links": [
+        {
+            "index": "1",
+            "Course Name": "Digital Marketing 101",
+            "Platform": "Simplilearn",
+            "Category": "Digital Marketing",
+            "CourseLink": "https://www.simplilearn.com/learn-digital-marketing-fundamentals-basics-skillup"
+        },
+        {
+            "index": "2",
+            "Course Name": "Advanced SEO Program",
+            "Platform": "Simplilearn",
+            "Category": "Digital Marketing",
+            "CourseLink": "https://www.simplilearn.com/learn-seo-basics-skillup"
+        },
+        {
+            "index": "3",
+            "Course Name": "Advanced Social Media Program",
+            "Platform": "Simplilearn",
+            "Category": "Digital Marketing",
+            "CourseLink": "https://www.simplilearn.com/learn-social-media-basics-skillup"
+        },
+        {
+            "index": "4",
+            "Course Name": "Advanced Content Marketing",
+            "Platform": "Simplilearn",
+            "Category": "Digital Marketing",
+            "CourseLink": "https://www.simplilearn.com/free-content-marketing-training-course-skillup"
+        },
+        {
+            "index": "5",
+            "Course Name": "Youtube and video Marketing",
+            "Platform": "Simplilearn",
+            "Category": "Digital Marketing",
+            "CourseLink": "https://www.simplilearn.com/free-youtube-and-video-marketing-training-course-skillup"
+        },
+        {
+            "index": "6",
+            "Course Name": "Advanced PPC program",
+            "Platform": "Simplilearn",
+            "Category": "Digital Marketing",
+            "CourseLink": "https://www.simplilearn.com/learn-advanced-ppc-advertising-skillup"
+        },
+        {
+            "index": "7",
+            "Course Name": "Facebook Marketing & Advertising",
+            "Platform": "Simplilearn",
+            "Category": "Digital Marketing",
+            "CourseLink": "https://www.simplilearn.com/free-facebook-marketing-and-advertising-training-course-skillup"
+        },
+        {
+            "index": "8",
+            "Course Name": "Digital Marketing for CXOs",
+            "Platform": "Simplilearn",
+            "Category": "Digital Marketing",
+            "CourseLink": "https://www.simplilearn.com/learn-digital-marketing-basics-for-entrepreneurs-cxos-skillup"
+        },
+        {
+            "index": "9",
+            "Course Name": "Digital Marketing Strategy",
+            "Platform": "Simplilearn",
+            "Category": "Digital Marketing",
+            "CourseLink": "https://www.simplilearn.com/free-digital-marketing-strategy-training-course-skillup"
+        },
+        {
+            "index": "10",
+            "Course Name": "Complete Google Adwords Professionals",
+            "Platform": "Simplilearn",
+            "Category": "Digital Marketing",
+            "CourseLink": "https://www.simplilearn.com/learn-google-ads-fundamentals-free-course-skillup"
+        },
+        {
+            "index": "11",
+            "Course Name": "Advanced Email Marketing",
+            "Platform": "Simplilearn",
+            "Category": "Digital Marketing",
+            "CourseLink": "https://www.simplilearn.com/learn-email-marketing-free-course-skillup"
+        },
+        {
+            "index": "12",
+            "Course Name": "Advanced Mobile Marketing",
+            "Platform": "Simplilearn",
+            "Category": "Digital Marketing",
+            "CourseLink": "https://www.simplilearn.com/learn-mobile-marketing-free-training-course-skillup"
+        },
+        {
+            "index": "13",
+            "Course Name": "Digital and Social Selling",
+            "Platform": "Simplilearn",
+            "Category": "Digital Marketing",
+            "CourseLink": "https://www.simplilearn.com/learn-digital-social-selling-basics-skillup"
+        },
+        {
+            "index": "14",
+            "Course Name": "Social Media foundations",
+            "Platform": "Simplilearn",
+            "Category": "Digital Marketing",
+            "CourseLink": "https://www.simplilearn.com/introduction-to-learn-social-media-free-course-skillup"
+        },
+        {
+            "index": "15",
+            "Course Name": "Instagram Marketing Basics",
+            "Platform": "Simplilearn",
+            "Category": "Digital Marketing",
+            "CourseLink": "https://www.simplilearn.com/learn-instagram-marketing-free-course-skillup"
+        },
+        {
+            "index": "16",
+            "Course Name": "Digital Marketing tools and techniques",
+            "Platform": "Simplilearn",
+            "Category": "Digital Marketing",
+            "CourseLink": "https://www.simplilearn.com/digital-marketing-tools-techniques-free-online-course-skillup"
+        },
+        {
+            "index": "17",
+            "Course Name": "Advanced Web Analytics",
+            "Platform": "Simplilearn",
+            "Category": "Digital Marketing",
+            "CourseLink": "https://www.simplilearn.com/free-web-analytics-training-course-skillup"
+        },
+        {
+            "index": "18",
+            "Course Name": "Advanced Website conversion rate optimization",
+            "Platform": "Simplilearn",
+            "Category": "Digital Marketing",
+            "CourseLink": "https://www.simplilearn.com/learn-conversion-rate-optimization-free-course-skillup"
+        },
+        {
+            "index": "19",
+            "Course Name": "Tools-Google Analytics",
+            "Platform": "Simplilearn",
+            "Category": "Digital Marketing",
+            "CourseLink": "https://www.simplilearn.com/free-google-analytics-training-course-for-beginners-skillup"
+        },
+        {
+            "index": "20",
+            "Course Name": "Marketing Automation Foundations",
+            "Platform": "Simplilearn",
+            "Category": "Digital Marketing",
+            "CourseLink": "https://www.simplilearn.com/free-marketing-automation-training-course-skillup"
+        },
+        {
+            "index": "21",
+            "Course Name": "PPC Foundations",
+            "Platform": "Simplilearn",
+            "Category": "Digital Marketing",
+            "CourseLink": "https://www.simplilearn.com/learn-ppc-basics-free-course-skillup"
+        },
+        {
+            "index": "22",
+            "Course Name": "Hootsuite Platform Training",
+            "Platform": "Simplilearn",
+            "Category": "Digital Marketing",
+            "CourseLink": "https://www.simplilearn.com/free-hootsuite-training-course-skillup"
+        },
+        {
+            "index": "23",
+            "Course Name": "Introduction to Twitter Marketing",
+            "Platform": "Simplilearn",
+            "Category": "Digital Marketing",
+            "CourseLink": "https://www.simplilearn.com/learn-twitter-marketing-basics-free-course-skillup"
+        },
+        {
+            "index": "24",
+            "Course Name": "Introduction to Linkedin Marketing",
+            "Platform": "Simplilearn",
+            "Category": "Digital Marketing",
+            "CourseLink": "https://www.simplilearn.com/free-linkedin-marketing-course-skillup"
+        },
+        {
+            "index": "25",
+            "Course Name": "Basics of Snap Marketing",
+            "Platform": "Simplilearn",
+            "Category": "Digital Marketing",
+            "CourseLink": "https://www.simplilearn.com/free-snapchat-marketing-course-skillup"
+        },
+        {
+            "index": "26",
+            "Course Name": "Basics of Influencer Marketing and Online Reputation Management",
+            "Platform": "Simplilearn",
+            "Category": "Digital Marketing",
+            "CourseLink": "https://www.simplilearn.com/learn-fundamentals-of-influencer-marketing-and-orm-free-course-skillup"
+        },
+        {
+            "index": "27",
+            "Course Name": "Introduction to pinterest Marketing",
+            "Platform": "Simplilearn",
+            "Category": "Digital Marketing",
+            "CourseLink": "https://www.simplilearn.com/learn-pinterest-marketing-basics-free-course-skillup"
+        },
+        {
+            "index": "28",
+            "Course Name": "Basics of SMS and APP Marketing",
+            "Platform": "Simplilearn",
+            "Category": "Digital Marketing",
+            "CourseLink": "https://www.simplilearn.com/learn-sms-marketing-app-marketing-free-course-skillup"
+        },
+        {
+            "index": "29",
+            "Course Name": "Introduction to Paid Marketing",
+            "Platform": "Simplilearn",
+            "Category": "Digital Marketing",
+            "CourseLink": "https://www.simplilearn.com/learn-basics-of-paid-media-marketing-free-course-skillup"
+        },
+        {
+            "index": "30",
+            "Course Name": "Introduction to spark AR course by Meta",
+            "Platform": "Simplilearn",
+            "Category": "Digital Marketing",
+            "CourseLink": "https://www.simplilearn.com/learn-spark-augmented-reality-free-course-skillup"
+        }
+    ]
+}
